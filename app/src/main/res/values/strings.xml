@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastProject</string>
+    <string name="opening_info">[예약안내문자]\n%s를 예약해 주신 고객님, 감사합니다.</string>
+    <string name="type_info">객실타입:%s</string>
+    <string name="checkIn_info">입실일시:%s</string>
+    <string name="checkOut_info">퇴실일시:%s</string>
+    <string name="coupon_info">%s만의 쿠폰(%d원) 혜택을 원하신다면\n %s을 눌러주세요. (1회성 광고수신 동의 / %d-%d-%d까지만 쿠폰 다운로드 가능)</string>
+    <string name="closing_info">이용 중 불편한 사항은 언제든지 말씀해 주십시오. \n항상 친절하게 모시도록 하겠습니다.\n\nFrom %s.</string>
+</resources>
